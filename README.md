@@ -185,8 +185,14 @@
 
 ## 七、网络
 * 网络的七层架构
-* TCP/IP协议
-* 三次握手/四次挥手
+* TCP/IP协议 
+  
+  [UDP与TCP协议](https://blog.csdn.net/qq_33592535/article/details/115448127)
+
+* 三次握手/四次挥手 
+  
+  [三次握手和四次挥手](https://blog.csdn.net/qq_33592535/article/details/115448033)
+
 * http和https的区别
 * 一个URL访问的全过程
 * TCP拥堵解决方案
