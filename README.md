@@ -185,6 +185,7 @@
 
 ## 七、网络
 * 网络的七层架构
+  [网络的五层协议](https://blog.csdn.net/qq_33592535/article/details/115473609)
 * TCP/IP协议 
   
   [UDP与TCP协议](https://blog.csdn.net/qq_33592535/article/details/115448127)
@@ -196,6 +197,6 @@
 * http和https的区别
 * 一个URL访问的全过程
 * TCP拥堵解决方案
-* CDN原理
+* DNS原理
 
 
