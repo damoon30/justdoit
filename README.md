@@ -190,15 +190,18 @@
 
 * TCP/IP协议 
   
-  [UDP与TCP协议](https://blog.csdn.net/qq_33592535/article/details/115448127)
+  [UDP与TCP协议](https://github.com/princeSeven/justdoit/blob/master/network/TCP%E4%B8%8EUDP%E5%8D%8F%E8%AE%AE.md)
 
 * 三次握手/四次挥手 
   
-  [三次握手和四次挥手](https://blog.csdn.net/qq_33592535/article/details/115448033)
+  [三次握手和四次挥手](https://github.com/princeSeven/justdoit/blob/master/network/%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%92%8C%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B.md)
 
 * http和https的区别
 * 一个URL访问的全过程
 * TCP拥堵解决方案
+  
+
+
 * DNS原理
 
 
