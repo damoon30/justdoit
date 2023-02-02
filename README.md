@@ -183,8 +183,12 @@
 >#### 3.1 Redis cluster模式
 >#### 3.2 Redis 哨兵模式
 
+## 七、DDD领域建模
+### 1. DDD知识基础
+### 2. DDD实践总结
 
-## 七、网络
+
+## 八、网络
 * 网络的七层架构
   
   [网络的五层协议](https://blog.csdn.net/qq_33592535/article/details/115473609)
